@@ -54,7 +54,8 @@ Issues and PRs are split into two levels of labels, at the higher level:
 * `security`: controlling data access through authorisation,
 * `fields`: new fields, displaying and editing data,
 * `models`: models, associations and fetching the underlying data,
-* `documentation`: how to use Administrate, examples and common usage
+* `documentation`: how to use Administrate, examples and common usage,
+* `dependencies`: changes or issues relating to a dependency
 
 ## Security
 
